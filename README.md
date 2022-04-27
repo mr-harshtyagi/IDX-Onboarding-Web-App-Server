@@ -1,2 +1,2 @@
 # IDX-Onboarding-Web-App-Server
-This is server app for IDX onboarding Web App
+This is server codebase for IDX onboarding Web App
